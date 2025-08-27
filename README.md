@@ -36,7 +36,7 @@
 - 🔹 [**Used Car Data Analysis**](https://github.com/dilekbrdkc/used-car-data-analysis)  
   End-to-end analysis of used car prices with Linear Regression, Random Forest, SQL and visualizations.  
   Analisi end-to-end dei prezzi delle auto usate con regressione lineare, Random Forest, SQL e visualizzazioni.  
-  ![Actual vs Predicted Price](https://github.com/dilekbrdkc/dilekbrdkc/blob/main/assets/actual_vs_predicted_price.png?raw=true)
+  ![Actual vs Predicted Price](assets/actual_vs_predictid_price.png)
 
 - 🔹 [**HR Data Analysis**](https://github.com/dilekbrdkc/HR_Data_Analysis)  
   Study on employee turnover, job satisfaction, gender & education using IBM-based dataset.  
@@ -64,3 +64,4 @@
 ### 📬 Contact / Contatti
 - **E-mail**: dilekbdkc@gmail.com
 - **LinkedIn**: [linkedin.com/in/dilek-bardakci-73228382](https://www.linkedin.com/in/dilek-bardakci-73228382/)
+
